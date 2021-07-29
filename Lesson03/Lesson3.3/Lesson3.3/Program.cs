@@ -6,7 +6,15 @@ namespace Lesson3._3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
+            string word = Console.ReadLine();
+           
+
+            for (int i = word.Length - 1; i >= 0; i--)
+            {
+                Console.Write("{0}", word[i]);
+            }
+
         }
     }
 }
