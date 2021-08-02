@@ -1,0 +1,13 @@
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\bin\Debug\netcoreapp3.1\Lesson4.2.exe
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\bin\Debug\netcoreapp3.1\Lesson4.2.deps.json
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\bin\Debug\netcoreapp3.1\Lesson4.2.runtimeconfig.json
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\bin\Debug\netcoreapp3.1\Lesson4.2.runtimeconfig.dev.json
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\bin\Debug\netcoreapp3.1\Lesson4.2.dll
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\bin\Debug\netcoreapp3.1\Lesson4.2.pdb
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\obj\Debug\netcoreapp3.1\Lesson4.2.csproj.AssemblyReference.cache
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\obj\Debug\netcoreapp3.1\Lesson4.2.AssemblyInfoInputs.cache
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\obj\Debug\netcoreapp3.1\Lesson4.2.AssemblyInfo.cs
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\obj\Debug\netcoreapp3.1\Lesson4.2.csproj.CoreCompileInputs.cache
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\obj\Debug\netcoreapp3.1\Lesson4.2.dll
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\obj\Debug\netcoreapp3.1\Lesson4.2.pdb
+C:\Users\glebp\Desktop\C#\Practice\Lesson04\Lesson4.2\Lesson4.2\obj\Debug\netcoreapp3.1\Lesson4.2.genruntimeconfig.cache
